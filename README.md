@@ -1,0 +1,2 @@
+# freecadworkbench
+A FreeCAD workbench
