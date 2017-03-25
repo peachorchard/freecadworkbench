@@ -16,7 +16,7 @@
 #    along with RoyerWorkbench.  If not, see <http://www.gnu.org/licenses/>.
 
 import FreeCAD as App
-from FreeCAD import Part
+import Part
 import pivy
 from pivy import coin
 
